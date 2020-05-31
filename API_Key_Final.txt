@@ -1,0 +1,2 @@
+API Key for virustotal 
+bc54a669b1f0eeab5b8a2c5d29f6824668fba0a25eb8f97c46f468b8564ff92a
